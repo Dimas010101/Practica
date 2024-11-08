@@ -1,0 +1,104 @@
+.h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    color:  #E67E22;
+    text-shadow: 
+    3px 3px 1px black,
+    5px 5px 2px white,
+    8px 8px 3px black;
+}
+
+.body{
+    background-color: #262626;
+}
+
+.div{
+    background-color: #E67E22;
+}
+
+.h21{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+
+.p1{
+    padding-left: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    display: inline-block;
+}
+
+.imagen {
+    max-width: 220px;
+    max-height: 150px;
+    filter: brightness(120%);
+    border: 5px solid transparent;
+}
+
+figcaption {
+    background-color: #222;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 5%;
+    text-align: center;
+}
+
+figure {
+    border: thin #c0c0c0 solid;
+    display: flex; 
+    flex-flow: column;
+    padding: 5px;
+    max-width: 220px;
+    margin-left: 20px;
+    border: 5px solid #000000;
+}
+
+
+a {
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+    color: none;
+}
+
+
+.h222{
+    color: #000000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+hr {
+    border: 1px solid #000; 
+    margin: 20px 0;
+    height: 5px;
+    background-color: rgb(0, 0, 0);
+    border-color: #000000;
+}
+
+.label {
+    color: black;
+    font-weight: bold;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.legend {
+    color: black;
+    font-weight: bolder;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.submit{
+    color: rgb(0, 0, 0);
+    border-color: #000000;
+    background-color:#E67E22;
+}
+
+.footer-links{
+    text-align: center;
+}
+
+.p0{
+    color: beige;
+    text-align: center;
+}

@@ -1,0 +1,64 @@
+.h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    color: white;
+    text-shadow: 
+    3px 3px 1px red,
+    5px 5px 2px red,
+    8px 8px 3px red;
+}
+
+
+
+.body{
+    background-color: black;
+}
+
+
+section {
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+
+.imagen1 {
+    background-image: url("https://i.pinimg.com/originals/34/40/6c/34406c4b4ec0cc672606f2e937e87d49.jpg");
+    background-position: center;
+    background-size: contain;
+}
+
+.imagen2 {
+    background-image: url("https://www.metal-archives.com/images/3/3/7/7/33776.jpg?4749");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.imagen3 {
+    background-image: url("http://4.bp.blogspot.com/-H8930knJoPw/TWPwKcCJfKI/AAAAAAAACac/8qIMyQaDFp0/s1600/Almafuerte%2B-%2B2006%2B-%2BToro%2BY%2BPampa%2B-%2BFront.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.imagen4 {
+    background-image: url("https://tse2.mm.bing.net/th?id=OIP.07ZOSKDkBNsr8jGu_o-sFQHaHa&pid=Api&P=0&h=180");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.footer-links{
+    text-align: center;
+}
+
+.p0{
+    color: beige;
+    text-align: center;
+}
